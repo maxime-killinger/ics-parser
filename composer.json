@@ -1,0 +1,15 @@
+{
+  "name": "maxime-killinger/ics-parser",
+  "description": "ICS Parser",
+  "type": "template",
+  "keywords": [
+    "php",
+    "ics"
+  ],
+  "authors": [
+    {
+      "name": "Maxime Killinger",
+      "email": "max.killinger@outlook.fr"
+    }
+  ]
+}
